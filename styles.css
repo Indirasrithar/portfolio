@@ -1,0 +1,114 @@
+
+a{
+	color: 	#ff0000;
+	 
+	}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+body {
+			background-color:#90EE90;
+	}
+
+
+hr{
+		background-color:none;
+		border-style:none;
+		border-color:rgba(201, 76, 76, 0.3);
+		border-top-style:dotted;
+		border-width: 5px;
+			
+		width: 5%;
+
+	}
+h1 {
+		
+	color: sandybrown;
+	font-style:italic;
+	font-size: 40px;
+
+	} 
+
+h2{
+		font-weight: 700px;
+		text-align: left;
+		 color: #00FF00;
+	}
+div{
+		text-align: center;
+	}
+img{
+	height:100px;
+	width: 100px;
+}
+p{
+	font-family:emoji;
+	font-size: 25px;
+
+}
+
+		thead th{
+  font-family: 'Rock Salt', cursive;
+
+}
+
+th {
+  letter-spacing: 2px;
+  font-size: 25px;
+}
+
+td {
+  letter-spacing: 1px;
+  font-style: bold;
+  font-size: 20px;
+  font-weight: 700;
+ line-height: 2em;
+
+}
+
+tbody td {
+  text-align: center;
+  font-style: bold;
+  font-size: 20px;
+
+}
+nav{
+	display: inline;
+	float:right;
+	
+}
+
+#profile{
+
+  border-radius: 50%;
+  height:200px;
+  width:200px;
+}
+.paragraph{
+	font-weight: 700;
+	line-height: 2em;
+
+}
+.image{
+	border-radius: 50%;
+	float:right;
+}
+.hobbies{
+text-align: left;
+	}
+.skills{
+	float:left;
+	border-radius:50rem;
+}
+.im{
+	margin:100px auto 100px auto;
+}		
